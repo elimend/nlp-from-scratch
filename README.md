@@ -80,3 +80,6 @@ jupyter notebook
 - *The Great Impersonation* (Japanese translation) by E. Phillips Oppenheim — Project Gutenberg.
 - Shakespeare training and test files — equivalent public-domain Shakespeare corpora are available on Project Gutenberg.
 - Brown corpus — accessed via `nltk.download('brown')`.
+
+## Context
+Projects for Natural Language Processing at Eastern University, self-directed. Instructor provided the topic space; all code, analysis, and interpretation are my own.
